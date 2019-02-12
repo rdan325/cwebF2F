@@ -1,0 +1,10 @@
+feedlot_id,latitude,longitude,head,breed,dgs,corn,hay,dgs_filled,corn_filled,water_used
+1,41.74,-101.33,1000,angus,,,,0,0,
+2,40.84,-100.91,500,angus,,,,0,0,
+3,41.53,-98.58,650,hereford,,,,0,0,
+4,42.36,-103.76,5000,simmentel,,,,0,0,
+5,40.63,-99.35,200,angus,,,,0,0,
+6,42.51,-99.64,300,angus,,,,0,0,
+7,42.59,-96.92,5500,hereford,,,,0,0,
+8,40.61,-97.41,100,angus,,,,0,0,
+9,41.55,-103.81,600,charolais,,,,0,0,
